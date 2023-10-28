@@ -9,7 +9,6 @@
     });
   });
 </script>
-Sample Page
 </head>
 <body>
 This is the sample page
