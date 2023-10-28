@@ -1,4 +1,3 @@
-# Example1
 <html>
 <head>
 Sample Page
