@@ -5,7 +5,7 @@
   window.OneSignalDeferred = window.OneSignalDeferred || [];
   OneSignalDeferred.push(function(OneSignal) {
     OneSignal.init({
-      appId: "caa2ea1b-629c-4a32-9f10-61bdd291a850",
+      appId: "b29cc065-2899-48b2-bc4a-0d87ca03c036",
     });
   });
 </script>
